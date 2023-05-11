@@ -1,0 +1,39 @@
+body {background-color: beige;}
+.encabezado {text-align: center;
+    background-color: aquamarine;
+             font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                           
+}
+text-align: center;
+#introduccion {font-size: large;
+               font-style: italic; text-align: center;}
+
+#requisitos {font-size: medium;
+background-color: rgb(32, 200, 130);text-align: center;}
+
+#super {font-size: xx-large ;
+    font-style: italic;
+        color: aliceblue;
+    background-color: rgb(237, 162, 12);text-align: center;}
+
+.perritos {font-size: x-large ;
+        background-color: aqua;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;text-align: center; }
+
+.gatitos {font-size: x-large;
+background-color: rgb(226, 43, 183);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;}
+
+#recomendaciones {background-color: gray;
+margin: 100px;
+border: 50px;
+margin-top: 50px;
+margin-bottom: 20px;
+font-size: xx-large;
+border-color: blueviolet;text-align: center;}
+
+.links {font-size: x-large;
+margin: 100px;
+text-align: center;}
+
+.images {margin-left: 320px;}
